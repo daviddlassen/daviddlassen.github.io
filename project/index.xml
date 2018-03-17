@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/project/</link>
+    <description>Recent content in Projects on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Center for Economic Behavior and Inequality</title>
+      <link>https://daviddlassen.github.io/project/cebi/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/cebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Municipalities</title>
+      <link>https://daviddlassen.github.io/project/munis/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/munis/</guid>
+      <description>All the stuff we need to know about Danish muni reform + bydele + politicians</description>
+    </item>
+    
+    <item>
+      <title>Political Economics</title>
+      <link>https://daviddlassen.github.io/project/polecon/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/polecon/</guid>
+      <description>0) Corruption 1) Transparency 2) Sapere Aude 2) HHPOLITICS</description>
+    </item>
+    
+    <item>
+      <title>Social Data Science</title>
+      <link>https://daviddlassen.github.io/project/sodas/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/sodas/</guid>
+      <description>All the stuff we need to know about SODAS and Social Fabric, Sensible DTU, Copenhagen Network Study.</description>
+    </item>
+    
+  </channel>
+</rss>

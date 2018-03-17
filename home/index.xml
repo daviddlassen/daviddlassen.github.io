@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/home/</link>
+    <description>Recent content in Homes on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://daviddlassen.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/about/</guid>
+      <description>Biography I am a professor of Economics at the University of Copenhagen. I am the founding director of the Center for Social Data Science (SODAS) and co-deputy director of the Center for Economic Behavior and Inequality (CEBI), established in 2017 through a grant from the Danish National Research Foundation.
+I am currently the Chair of the Independent Research Fund Denmark - Social Science, and was a member of the 2017-8 Committee for Better University Education (Udvalget for bedre universitetsuddannelser).</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://daviddlassen.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://daviddlassen.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://daviddlassen.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://daviddlassen.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://daviddlassen.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://daviddlassen.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/teaching/</guid>
+      <description>I am responsible for Social Data Science and Topics in Social Data Science, offered in the Economics department, but available for all social science with a quantitative background. These courses introduce and apply data science methods, incl. applied machine learning, in a social science context. They are Python-based.
+Earlier, I have taught Political Economics, Public Expenditure Policy, and Advanced Undergraduate Micro, as well as seminars topics such as Political Economics, Public Economics, and Economics of the Media.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://daviddlassen.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://daviddlassen.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
