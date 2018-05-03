@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Liquidity Constraint Tightness and Consumer Responses to Fiscal Stimulus Policy</title>
+      <link>https://daviddlassen.github.io/publication/sp_payout/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/sp_payout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Academic Performance and Behavioral Patterns</title>
       <link>https://daviddlassen.github.io/publication/studentnetworks/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/studentnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
+      <link>https://daviddlassen.github.io/publication/muni_immi/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/muni_immi/</guid>
       <description></description>
     </item>
     
@@ -58,6 +76,18 @@
 1) Transparency
 2) Sapere Aude
 2) HHPOLITICS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HHPOLITICS - ERC Starting Grant</title>
+      <link>https://daviddlassen.github.io/project/hhpolitics/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/hhpolitics/</guid>
+      <description>&lt;p&gt;Papers related to the 2013-7 HHPOLITICS ERC Starting Grant&lt;/p&gt;
+
+&lt;p&gt;Contact me for full list of publications from the full team&lt;/p&gt;
 </description>
     </item>
     
@@ -123,33 +153,6 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/jeea_rents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Income and Outcomes: Social Desirability Bias Distorts Measurements of the Relationship between Income and Political Behavior</title>
-      <link>https://daviddlassen.github.io/publication/poq_income/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/poq_income/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Budget Cycles</title>
-      <link>https://daviddlassen.github.io/publication/pbc_oep/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/pbc_oep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Science for Økonomer: Nye tider eller gammel vin på nye flasker?</title>
-      <link>https://daviddlassen.github.io/talk/nat_oek_marts2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://daviddlassen.github.io/talk/nat_oek_marts2018/</guid>
       <description></description>
     </item>
     
