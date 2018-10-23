@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SODAS on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/tags/sodas/</link>
+    <description>Recent content in SODAS on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/tags/sodas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Data Science</title>
+      <link>https://daviddlassen.github.io/project/sodas/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/sodas/</guid>
+      <description>All the stuff we need to know about SODAS and Social Fabric, Sensible DTU, Copenhagen Network Study.</description>
+    </item>
+    
+  </channel>
+</rss>

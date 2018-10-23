@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/tags/</link>
+    <description>Recent content in Tags on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copenhagen Network Study</title>
+      <link>https://daviddlassen.github.io/tags/copenhagen-network-study/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/tags/copenhagen-network-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political economics</title>
+      <link>https://daviddlassen.github.io/tags/political-economics/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/tags/political-economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public finance</title>
+      <link>https://daviddlassen.github.io/tags/public-finance/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/tags/public-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SODAS</title>
+      <link>https://daviddlassen.github.io/tags/sodas/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/tags/sodas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Data Science</title>
+      <link>https://daviddlassen.github.io/tags/social-data-science/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/tags/social-data-science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
