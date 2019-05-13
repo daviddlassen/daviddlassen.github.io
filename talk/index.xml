@@ -7,36 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Data Science for Økonomer: Nye tider eller gammel vin på nye flasker?</title>
-      <link>https://daviddlassen.github.io/talk/nat_oek_marts2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Example Talk</title>
+      <link>https://daviddlassen.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/talk/nat_oek_marts2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Giver store data og data science nye (u)muligheder i samfundsvidenskaben?</title>
-      <link>https://daviddlassen.github.io/talk/vive_maj2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://daviddlassen.github.io/talk/vive_maj2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In Your Face: Ubiquitous Politics and the Polarization of Social Networks</title>
-      <link>https://daviddlassen.github.io/talk/royalsocietyapril2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://daviddlassen.github.io/talk/royalsocietyapril2018/</guid>
-      <description></description>
+      <guid>https://daviddlassen.github.io/talk/example/</guid>
+      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
   </channel>

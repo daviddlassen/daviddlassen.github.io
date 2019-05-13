@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/authors/admin/</link>
+    <description>Recent content on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://daviddlassen.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/post/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>https://daviddlassen.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/post/getting-started/</guid>
+      <description>Create a beautifully simple website in under 10 minutes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daviddlassen.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/admin/</guid>
+      <description>I am professor of Economics at the University of Copenhagen. I am the founding director of the Center for Social Data Science (SODAS) and co-deputy director of the Center for Economic Behavior and Inequality (CEBI), established in 2017 through a grant from the Danish National Research Foundation.
+I am the Chair of the Independent Research Fund Denmark, and was a member of the 2017-8 Committee for Better University Education (Udvalget for bedre universitetsuddannelser).</description>
+    </item>
+    
+  </channel>
+</rss>

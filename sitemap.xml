@@ -1,522 +1,515 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/surprises/</loc>
-      <lastmod>2018-08-31T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/middleclass/</loc>
-      <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/wealthineq/</loc>
-      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/sp_payout/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/studentnetworks/</loc>
-      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/muni_immi/</loc>
-      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/irresponsible/</loc>
-      <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/project/data_governance/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/cebi/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/project/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/munis/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/project/social_data_science/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/polecon/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/2/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/hhpolitics/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/amalie-jensen/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/sodas/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/dk_social_networks/</loc>
-      <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/david-d.-lassen/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/muni_comp/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/jacob-g.-hariri/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/attendance_plosone/</loc>
-      <lastmod>2017-11-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/middleclass/middleclass/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/jeea_rents/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/poq_income/</loc>
-      <lastmod>2017-05-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/pbc_oep/</loc>
-      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/project/past_teaching/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/talk/nat_oek_marts2018/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/talk/vive_maj2018/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/talk/royalsocietyapril2018/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/jop_info/</loc>
-      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/sp_payout/sp_payout/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/nber_book/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/s%C3%B8ren-leth-petersen/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/greece/</loc>
-      <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/3/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/enforcement/</loc>
-      <lastmod>2014-05-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/james-e.-alt/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/borrowing_costs/</loc>
-      <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/sebastian-barfort/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/latebudgets/</loc>
-      <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/surprises/surprises/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/munis/</loc>
-      <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/ernst-fehr/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/imf_fisc/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/gregers-nytoft-rasmussen/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/divgivcorr/</loc>
-      <lastmod>2008-03-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/helga-fehr-duda/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/violence_book/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/thomas-epper/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/ethnic/</loc>
-      <lastmod>2007-07-31T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/fisc_consol/</loc>
-      <lastmod>2006-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/fisctransp/</loc>
-      <lastmod>2006-08-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/andreas-bjerre-nielsen/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/fisctransajps/</loc>
-      <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/david-dreyer-lassen/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/infovoting/</loc>
-      <lastmod>2005-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/poleconcorr/</loc>
-      <lastmod>2003-07-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/enys-mones/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication/sppq/</loc>
-      <lastmod>2002-09-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/katarina-jensen/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/2/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/piotr-sapiezynski/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/3/</loc>
-      <lastmod>2018-08-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/sune-lehmann/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/4/</loc>
-      <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/valentin-kassarnig/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/5/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/asger-l.-andersen/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/6/</loc>
-      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/irresponsible/irresponsible/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/lasse-holb%C3%B8ll-westh-nielsen/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/copenhagen-network-study/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/dk_social_networks/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/horacio-a.-larreguy/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/project/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/john-marshall/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/publication_types/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/tags/source-themes/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/sodas/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/social-data-science/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/muni_comp/muni_comp/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/nikolaj-harmon/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/political-economics/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/authors/s%C3%B8ren-serritzlew/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://daviddlassen.github.io/tags/public-finance/</loc>
-      <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://daviddlassen.github.io/publication/attendance_plosone/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/elena-paltseva/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/j%C3%B8rgen-j.-andersen/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/niels-johannesen/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/jeea_rents/jeea_rents/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/poq_income/poq_income/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/6/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/lasse-aaskoven/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/pbc_oep/pbc_oep/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/jop_info/jop_info/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/project/supervision/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/nber_book/nber_book/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/greece/greece/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/joachim-wehner/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/enforcement/</loc>
+    <lastmod>2014-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/borrowing_costs/</loc>
+    <lastmod>2014-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/latebudget/latebudgets/</loc>
+    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/munis/munis/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/4/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/imf_fisc/imf_fisc/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/divgovcorr/</loc>
+    <lastmod>2008-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/5/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/david-w.-m.-sorenson/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/peter-kruize/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/violence_book/violence_book/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/ethnic/ethnic/</loc>
+    <lastmod>2007-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/shanna-rose/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/fisc_consol/fisc_consol/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/fisctransp/fisctransp/</loc>
+    <lastmod>2006-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/fisctransajps/fisctransajps/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/infovoting/infovoting/</loc>
+    <lastmod>2005-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/poleconcorr/poleconcorr/</loc>
+    <lastmod>2003-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/david-skilling/</loc>
+    <lastmod>2002-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/sppq/sppq/</loc>
+    <lastmod>2002-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/courses/</loc>
+  </url>
   
 </urlset>

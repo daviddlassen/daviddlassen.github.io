@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claus Thustrup Kreiner on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</link>
+    <description>Recent content in Claus Thustrup Kreiner on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/authors/claus-thustrup-kreiner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Liquidity Constraint Tightness and Consumer Responses to Fiscal Stimulus Policy</title>
+      <link>https://daviddlassen.github.io/publication/sp_payout/sp_payout/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/sp_payout/sp_payout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
+      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Accuracy of Survey Responses using Administrative Register Data: Evidence from Denmark</title>
+      <link>https://daviddlassen.github.io/publication/nber_book/nber_book/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/nber_book/nber_book/</guid>
+      <description>Prepared for the conference in Washington 2‐3 December 2011 on Improving the Measurement of Consumer Expenditures sponsored by Conference on Research in Income and Wealth and the National Bureau of Economic Research, with support from the Centre for Microdata Methods and Practice.</description>
+    </item>
+    
+  </channel>
+</rss>

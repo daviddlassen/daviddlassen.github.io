@@ -7,71 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Effect of Income and Unemployment Shocks on Political Preferences</title>
-      <link>https://daviddlassen.github.io/publication/surprises/</link>
-      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/surprises/</guid>
-      <description>Presented at: Arizona, EPSA 2017, APSA 2017, NBER Political Economy Fall 2017, Stanford, Copenhagen, Danish Public Choice Workshop 2017</description>
-    </item>
-    
-    <item>
       <title>Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance</title>
-      <link>https://daviddlassen.github.io/publication/middleclass/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://daviddlassen.github.io/publication/middleclass/middleclass/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/middleclass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
-      <link>https://daviddlassen.github.io/publication/wealthineq/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/wealthineq/</guid>
+      <guid>https://daviddlassen.github.io/publication/middleclass/middleclass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquidity Constraint Tightness and Consumer Responses to Fiscal Stimulus Policy</title>
-      <link>https://daviddlassen.github.io/publication/sp_payout/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <link>https://daviddlassen.github.io/publication/sp_payout/sp_payout/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/sp_payout/</guid>
+      <guid>https://daviddlassen.github.io/publication/sp_payout/sp_payout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Income and Unemployment Shocks on Political Preferences</title>
+      <link>https://daviddlassen.github.io/publication/surprises/surprises/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/surprises/surprises/</guid>
+      <description>Presented at: Arizona, EPSA 2017, APSA 2017, NBER Political Economy Fall 2017, Stanford, Copenhagen, Danish Public Choice Workshop 2017</description>
+    </item>
+    
+    <item>
+      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
+      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Performance and Behavioral Patterns</title>
-      <link>https://daviddlassen.github.io/publication/studentnetworks/</link>
+      <link>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/studentnetworks/</guid>
+      <guid>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
-      <link>https://daviddlassen.github.io/publication/muni_immi/</link>
+      <link>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/muni_immi/</guid>
+      <guid>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</guid>
       <description>Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018</description>
     </item>
     
     <item>
       <title>Irresponsible Parties, Responsible Voters? Legislative Gridlock and Collective Accountability</title>
-      <link>https://daviddlassen.github.io/publication/irresponsible/</link>
+      <link>https://daviddlassen.github.io/publication/irresponsible/irresponsible/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/irresponsible/</guid>
+      <guid>https://daviddlassen.github.io/publication/irresponsible/irresponsible/</guid>
       <description>Earlier iterations presented at: APSA, Copenhagen, Hertie School, Lund, NYU.</description>
     </item>
     
@@ -86,10 +86,10 @@
     
     <item>
       <title>Government Architecture and Political Selection</title>
-      <link>https://daviddlassen.github.io/publication/muni_comp/</link>
+      <link>https://daviddlassen.github.io/publication/muni_comp/muni_comp/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/muni_comp/</guid>
+      <guid>https://daviddlassen.github.io/publication/muni_comp/muni_comp/</guid>
       <description></description>
     </item>
     
@@ -104,55 +104,55 @@
     
     <item>
       <title>Petro Rents, Political Institutions, and Hidden Wealth: Evidence from Offshore Bank Accounts</title>
-      <link>https://daviddlassen.github.io/publication/jeea_rents/</link>
+      <link>https://daviddlassen.github.io/publication/jeea_rents/jeea_rents/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/jeea_rents/</guid>
+      <guid>https://daviddlassen.github.io/publication/jeea_rents/jeea_rents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Income and Outcomes: Social Desirability Bias Distorts Measurements of the Relationship between Income and Political Behavior</title>
-      <link>https://daviddlassen.github.io/publication/poq_income/</link>
+      <link>https://daviddlassen.github.io/publication/poq_income/poq_income/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/poq_income/</guid>
+      <guid>https://daviddlassen.github.io/publication/poq_income/poq_income/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Budget Cycles</title>
-      <link>https://daviddlassen.github.io/publication/pbc_oep/</link>
+      <link>https://daviddlassen.github.io/publication/pbc_oep/pbc_oep/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/pbc_oep/</guid>
+      <guid>https://daviddlassen.github.io/publication/pbc_oep/pbc_oep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Credible sources and sophisticated voters: When does new information induce economic voting?</title>
-      <link>https://daviddlassen.github.io/publication/jop_info/</link>
+      <link>https://daviddlassen.github.io/publication/jop_info/jop_info/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/jop_info/</guid>
+      <guid>https://daviddlassen.github.io/publication/jop_info/jop_info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the Accuracy of Survey Responses using Administrative Register Data: Evidence from Denmark</title>
-      <link>https://daviddlassen.github.io/publication/nber_book/</link>
+      <link>https://daviddlassen.github.io/publication/nber_book/nber_book/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/nber_book/</guid>
+      <guid>https://daviddlassen.github.io/publication/nber_book/nber_book/</guid>
       <description>Prepared for the conference in Washington 2‐3 December 2011 on Improving the Measurement of Consumer Expenditures sponsored by Conference on Research in Income and Wealth and the National Bureau of Economic Research, with support from the Centre for Microdata Methods and Practice.</description>
     </item>
     
     <item>
       <title>It Isn&#39;t Just about Greece: Domestic Politics, Transparency and Fiscal Gimmickry in Europe</title>
-      <link>https://daviddlassen.github.io/publication/greece/</link>
+      <link>https://daviddlassen.github.io/publication/greece/greece/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/greece/</guid>
+      <guid>https://daviddlassen.github.io/publication/greece/greece/</guid>
       <description>Presented at: Boston College, the University of Copenhagen, the Hertie School of Governance, Princeton, Stanford, EPSA, and the IMF/Swedish Ministry of Finance.</description>
     </item>
     
@@ -176,109 +176,109 @@
     
     <item>
       <title>Late budgets</title>
-      <link>https://daviddlassen.github.io/publication/latebudgets/</link>
+      <link>https://daviddlassen.github.io/publication/latebudget/latebudgets/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/latebudgets/</guid>
+      <guid>https://daviddlassen.github.io/publication/latebudget/latebudgets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jurisdiction Size and Local Democracy: Evidence on Internal Political Efficacy from Large-scale Municipal Reform</title>
-      <link>https://daviddlassen.github.io/publication/munis/</link>
+      <link>https://daviddlassen.github.io/publication/munis/munis/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/munis/</guid>
+      <guid>https://daviddlassen.github.io/publication/munis/munis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal Consolidations in Advanced Industrialized Democracies: Economics, Politics, and Governance</title>
-      <link>https://daviddlassen.github.io/publication/imf_fisc/</link>
+      <link>https://daviddlassen.github.io/publication/imf_fisc/imf_fisc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/imf_fisc/</guid>
+      <guid>https://daviddlassen.github.io/publication/imf_fisc/imf_fisc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political and Judicial Checks on Corruption: Evidence from American State Governments</title>
-      <link>https://daviddlassen.github.io/publication/divgivcorr/</link>
+      <link>https://daviddlassen.github.io/publication/divgovcorr/</link>
       <pubDate>Fri, 14 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/divgivcorr/</guid>
+      <guid>https://daviddlassen.github.io/publication/divgovcorr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vold mod offentligt ansatte</title>
-      <link>https://daviddlassen.github.io/publication/violence_book/</link>
+      <link>https://daviddlassen.github.io/publication/violence_book/violence_book/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/violence_book/</guid>
+      <guid>https://daviddlassen.github.io/publication/violence_book/violence_book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethnic divisions, trust, and the size of the informal sector</title>
-      <link>https://daviddlassen.github.io/publication/ethnic/</link>
+      <link>https://daviddlassen.github.io/publication/ethnic/ethnic/</link>
       <pubDate>Tue, 31 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/ethnic/</guid>
+      <guid>https://daviddlassen.github.io/publication/ethnic/ethnic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The causes of fiscal transparency: evidence from the US states</title>
-      <link>https://daviddlassen.github.io/publication/fisc_consol/</link>
+      <link>https://daviddlassen.github.io/publication/fisc_consol/fisc_consol/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/fisc_consol/</guid>
+      <guid>https://daviddlassen.github.io/publication/fisc_consol/fisc_consol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal transparency, political parties, and debt in OECD countries</title>
-      <link>https://daviddlassen.github.io/publication/fisctransp/</link>
+      <link>https://daviddlassen.github.io/publication/fisctransp/fisctransp/</link>
       <pubDate>Mon, 14 Aug 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/fisctransp/</guid>
+      <guid>https://daviddlassen.github.io/publication/fisctransp/fisctransp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transparency, political polarization, and political budget cycles in OECD countries</title>
-      <link>https://daviddlassen.github.io/publication/fisctransajps/</link>
+      <link>https://daviddlassen.github.io/publication/fisctransajps/fisctransajps/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/fisctransajps/</guid>
+      <guid>https://daviddlassen.github.io/publication/fisctransajps/fisctransajps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effect of information on voter turnout: Evidence from a natural experiment</title>
-      <link>https://daviddlassen.github.io/publication/infovoting/</link>
+      <link>https://daviddlassen.github.io/publication/infovoting/infovoting/</link>
       <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/infovoting/</guid>
+      <guid>https://daviddlassen.github.io/publication/infovoting/infovoting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The political economy of institutions and corruption in American states</title>
-      <link>https://daviddlassen.github.io/publication/poleconcorr/</link>
+      <link>https://daviddlassen.github.io/publication/poleconcorr/poleconcorr/</link>
       <pubDate>Mon, 14 Jul 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/poleconcorr/</guid>
+      <guid>https://daviddlassen.github.io/publication/poleconcorr/poleconcorr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal transparency, gubernatorial approval, and the scale of government: Evidence from the states</title>
-      <link>https://daviddlassen.github.io/publication/sppq/</link>
+      <link>https://daviddlassen.github.io/publication/sppq/sppq/</link>
       <pubDate>Sat, 14 Sep 2002 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/sppq/</guid>
+      <guid>https://daviddlassen.github.io/publication/sppq/sppq/</guid>
       <description></description>
     </item>
     

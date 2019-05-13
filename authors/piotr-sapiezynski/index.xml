@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piotr Sapiezynski on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/authors/piotr-sapiezynski/</link>
+    <description>Recent content in Piotr Sapiezynski on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/authors/piotr-sapiezynski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic Performance and Behavioral Patterns</title>
+      <link>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
