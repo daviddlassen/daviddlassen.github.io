@@ -7,27 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 16:57:12 +0200</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://daviddlassen.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Flere penge til forskningen</title>
+      <link>https://daviddlassen.github.io/post/kronik_forskning/</link>
+      <pubDate>Wed, 10 Apr 2019 16:57:12 +0200</pubDate>
       
-      <guid>https://daviddlassen.github.io/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://daviddlassen.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
+      <guid>https://daviddlassen.github.io/post/kronik_forskning/</guid>
+      <description>Op-ed in Berlingske April 10, 2019 (with Mogens Høgh Jensen and Lars Arge, the Royal Danish Academy of Sciences and Letters, and Jens Kehlet Nørskov and Søren Peter Olesen, the Danish National Research Foundation)
+Read it here ($paywalled &amp;amp; in Danish)</description>
     </item>
     
   </channel>

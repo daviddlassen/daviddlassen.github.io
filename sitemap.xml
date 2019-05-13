@@ -39,6 +39,11 @@
   </url>
   
   <url>
+    <loc>https://daviddlassen.github.io/project/sds_msc/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daviddlassen.github.io/project/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -96,23 +101,18 @@
   </url>
   
   <url>
-    <loc>https://daviddlassen.github.io/project/past_teaching/</loc>
-    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://daviddlassen.github.io/post/kronik_forskning/</loc>
+    <lastmod>2019-04-10T16:57:12+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://daviddlassen.github.io/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T16:57:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/project/past_teaching/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -289,7 +289,7 @@
   
   <url>
     <loc>https://daviddlassen.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -368,17 +368,6 @@
   <url>
     <loc>https://daviddlassen.github.io/project/supervision/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -501,6 +490,10 @@
   <url>
     <loc>https://daviddlassen.github.io/publication/sppq/sppq/</loc>
     <lastmod>2002-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/admin/</loc>
   </url>
   
   <url>

@@ -40,16 +40,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://daviddlassen.github.io/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/admin/</guid>
-      <description>I am professor of Economics at the University of Copenhagen. I am the founding director of the Center for Social Data Science (SODAS) and co-deputy director of the Center for Economic Behavior and Inequality (CEBI), established in 2017 through a grant from the Danish National Research Foundation.
-I am the Chair of the Independent Research Fund Denmark, and was a member of the 2017-8 Committee for Better University Education (Udvalget for bedre universitetsuddannelser).</description>
-    </item>
-    
-    <item>
       <title>Claus Thustrup Kreiner</title>
       <link>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -317,6 +307,16 @@ I am the Chair of the Independent Research Fund Denmark, and was a member of the
       
       <guid>https://daviddlassen.github.io/authors/david-skilling/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daviddlassen.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/admin/</guid>
+      <description>I am professor of Economics at the University of Copenhagen. I am the founding director of the Center for Social Data Science (SODAS) and co-deputy director of the Center for Economic Behavior and Inequality (CEBI), established in 2017 through a grant from the Danish National Research Foundation.
+I am the Chair of the Independent Research Fund Denmark (DFF), and was a member of the 2017-8 Committee for Better University Education (Udvalget for bedre universitetsuddannelser).</description>
     </item>
     
   </channel>
