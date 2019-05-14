@@ -6,7 +6,7 @@
     <description>Recent content on David Dreyer Lassen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://daviddlassen.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -106,6 +106,24 @@
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dk_socialnetworks</title>
+      <link>https://daviddlassen.github.io/publication_wp/dk_socialnetworks/</link>
+      <pubDate>Tue, 14 May 2019 19:23:51 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/dk_socialnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
+      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -408,11 +426,30 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>The Effect of Income and Unemployment Shocks on Political Preferences</title>
+      <link>https://daviddlassen.github.io/publication_wp/surprises/surprises/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/surprises/surprises/</guid>
+      <description>&lt;p&gt;Presented at: Arizona, EPSA 2017, APSA 2017, NBER Political Economy Fall 2017, Stanford, Copenhagen, Danish Public Choice Workshop 2017&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
       <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
+      <link>https://daviddlassen.github.io/publication_wp/wealthineq/wealthineq/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/wealthineq/wealthineq/</guid>
       <description></description>
     </item>
     
@@ -436,6 +473,16 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
+      <link>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</guid>
+      <description>&lt;p&gt;Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Irresponsible Parties, Responsible Voters? Legislative Gridlock and Collective Accountability</title>
       <link>https://daviddlassen.github.io/publication/irresponsible/irresponsible/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
@@ -446,11 +493,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Irresponsible Parties, Responsible Voters? Legislative Gridlock and Collective Accountability</title>
+      <link>https://daviddlassen.github.io/publication_wp/irresponsible/irresponsible/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/irresponsible/irresponsible/</guid>
+      <description>&lt;p&gt;Earlier iterations presented at: APSA, Copenhagen, Hertie School, Lund, NYU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contagious political concerns: Identifying unemployment shock information transmission using the Danish population network</title>
-      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
+      <link>https://daviddlassen.github.io/publication_wp/dk_social_networks/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
+      <guid>https://daviddlassen.github.io/publication_wp/dk_social_networks/</guid>
       <description></description>
     </item>
     
@@ -460,6 +517,15 @@ $$&lt;/p&gt;
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/muni_comp/muni_comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government Architecture and Political Selection</title>
+      <link>https://daviddlassen.github.io/publication_wp/muni_comp/muni_comp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/muni_comp/muni_comp/</guid>
       <description></description>
     </item>
     

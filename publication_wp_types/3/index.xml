@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/publication_wp_types/3/</link>
+    <description>Recent content in 3 on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/publication_wp_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Effect of Income and Unemployment Shocks on Political Preferences</title>
+      <link>https://daviddlassen.github.io/publication_wp/surprises/surprises/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/surprises/surprises/</guid>
+      <description>Presented at: Arizona, EPSA 2017, APSA 2017, NBER Political Economy Fall 2017, Stanford, Copenhagen, Danish Public Choice Workshop 2017</description>
+    </item>
+    
+    <item>
+      <title>Contagious political concerns: Identifying unemployment shock information transmission using the Danish population network</title>
+      <link>https://daviddlassen.github.io/publication_wp/dk_social_networks/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/dk_social_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

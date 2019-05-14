@@ -34,6 +34,80 @@
   </url>
   
   <url>
+    <loc>https://daviddlassen.github.io/publication_types/0/</loc>
+    <lastmod>2019-05-14T19:23:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_wp/dk_socialnetworks/</loc>
+    <lastmod>2019-05-14T19:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/</loc>
+    <lastmod>2019-05-14T19:23:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_wp/</loc>
+    <lastmod>2019-05-14T19:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_types/3/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/amalie-jensen/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/dk_social_networks/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/david-d.-lassen/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/horacio-a.-larreguy/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/james-e.-alt/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/authors/john-marshall/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daviddlassen.github.io/project/data_governance/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -61,24 +135,6 @@
   </url>
   
   <url>
-    <loc>https://daviddlassen.github.io/authors/amalie-jensen/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/authors/david-d.-lassen/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://daviddlassen.github.io/authors/jacob-g.-hariri/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -86,17 +142,6 @@
   
   <url>
     <loc>https://daviddlassen.github.io/publication/middleclass/middleclass/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/publication_types/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/publication/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -144,13 +189,13 @@
   </url>
   
   <url>
-    <loc>https://daviddlassen.github.io/publication_types/3/</loc>
+    <loc>https://daviddlassen.github.io/publication_wp_types/3/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daviddlassen.github.io/authors/james-e.-alt/</loc>
+    <loc>https://daviddlassen.github.io/publication_wp_types/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -163,6 +208,11 @@
   
   <url>
     <loc>https://daviddlassen.github.io/publication/surprises/surprises/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_wp/surprises/surprises/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -196,6 +246,11 @@
   </url>
   
   <url>
+    <loc>https://daviddlassen.github.io/publication_wp/wealthineq/wealthineq/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daviddlassen.github.io/publication/student_networks/studentnetworks/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -214,6 +269,11 @@
   
   <url>
     <loc>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -259,26 +319,19 @@
   </url>
   
   <url>
+    <loc>https://daviddlassen.github.io/publication_wp/irresponsible/irresponsible/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daviddlassen.github.io/authors/lasse-holb%C3%B8ll-westh-nielsen/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daviddlassen.github.io/publication/dk_social_networks/</loc>
+    <loc>https://daviddlassen.github.io/publication_wp/dk_social_networks/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/authors/horacio-a.-larreguy/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://daviddlassen.github.io/authors/john-marshall/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -295,6 +348,11 @@
   
   <url>
     <loc>https://daviddlassen.github.io/publication/muni_comp/muni_comp/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daviddlassen.github.io/publication_wp/muni_comp/muni_comp/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
