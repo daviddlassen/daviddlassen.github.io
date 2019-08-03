@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 10 Apr 2019 16:57:12 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 16:57:12 +0200</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dansk forskning risikerer at skride, hvis vi fokuserer for ensidigt</title>
+      <link>https://daviddlassen.github.io/post/kronik_forskning_ensidigt/</link>
+      <pubDate>Wed, 03 Jul 2019 16:57:12 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/post/kronik_forskning_ensidigt/</guid>
+      <description>Kommentar i Berlingske 3. juli 2019 (med Mads Eriksen, Dansk Erhverv)
+Læs den her</description>
+    </item>
+    
+    <item>
+      <title>Hvem træder til, når regeringen ikke styrker dansk forskning?</title>
+      <link>https://daviddlassen.github.io/post/kronik_borsen_dff_nnf/</link>
+      <pubDate>Fri, 14 Jun 2019 16:57:12 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/post/kronik_borsen_dff_nnf/</guid>
+      <description>Debatindlæg i Børsen 14. juni 2019 (med Birgitte Nauntofte, Novo Nordisk Fonden)
+Læs den her ($$)</description>
+    </item>
     
     <item>
       <title>Flere penge til forskningen</title>
@@ -18,8 +38,8 @@
       <pubDate>Wed, 10 Apr 2019 16:57:12 +0200</pubDate>
       
       <guid>https://daviddlassen.github.io/post/kronik_forskning/</guid>
-      <description>Op-ed in Berlingske April 10, 2019 (with Mogens Høgh Jensen and Lars Arge, the Royal Danish Academy of Sciences and Letters, and Jens Kehlet Nørskov and Søren Peter Olesen, the Danish National Research Foundation)
-Read it here ($paywalled &amp;amp; in Danish)</description>
+      <description>Kronik i Berlingske 10. april 2019 (med Mogens Høgh Jensen og Lars Arge, det Kgl. Danske Videnskabernes Selskab, og Jens Kehlet Nørskov og Søren Peter Olesen, Danmarks Grundforskningsfond)
+Læs den her ($$)</description>
     </item>
     
   </channel>
