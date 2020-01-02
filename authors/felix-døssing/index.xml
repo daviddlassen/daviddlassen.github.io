@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix Døssing on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/authors/felix-d%C3%B8ssing/</link>
+    <description>Recent content in Felix Døssing on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/authors/felix-d%C3%B8ssing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suboptimal paternalism: Ability, benevolence, and self-selection in choosing for others</title>
+      <link>https://daviddlassen.github.io/publication/paternalism/patern_exp/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/paternalism/patern_exp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suboptimal paternalism: Ability, benevolence, and self-selection in choosing for others</title>
+      <link>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

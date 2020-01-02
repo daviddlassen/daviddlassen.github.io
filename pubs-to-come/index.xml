@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pubs to comes on David Dreyer Lassen</title>
+    <link>https://daviddlassen.github.io/pubs-to-come/</link>
+    <description>Recent content in Pubs to comes on David Dreyer Lassen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daviddlassen.github.io/pubs-to-come/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suboptimal paternalism: Ability, benevolence, and self-selection in choosing for others</title>
+      <link>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
+      <link>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</guid>
+      <description>Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018</description>
+    </item>
+    
+  </channel>
+</rss>

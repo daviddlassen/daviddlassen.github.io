@@ -109,6 +109,78 @@
     </item>
     
     <item>
+      <title>Time Discounting and Wealth Inequality</title>
+      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction data from the Copenhagen Networks Study</title>
+      <link>https://daviddlassen.github.io/publication/cns_scidata/cnsdata/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/cns_scidata/cnsdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance</title>
+      <link>https://daviddlassen.github.io/publication/middleclass/middleclass/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/middleclass/middleclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
+      <link>https://daviddlassen.github.io/publication_wp/smartphoneatt/smartphone_att/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/smartphoneatt/smartphone_att/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am Right and I Know It</title>
+      <link>https://daviddlassen.github.io/publication_wp/overconf/overconf_apsa/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication_wp/overconf/overconf_apsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suboptimal paternalism: Ability, benevolence, and self-selection in choosing for others</title>
+      <link>https://daviddlassen.github.io/publication/paternalism/patern_exp/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/paternalism/patern_exp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suboptimal paternalism: Ability, benevolence, and self-selection in choosing for others</title>
+      <link>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/pubs-to-come/overconf/overconf_apsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
+      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dansk forskning risikerer at skride, hvis vi fokuserer for ensidigt</title>
       <link>https://daviddlassen.github.io/post/kronik_forskning_ensidigt/</link>
       <pubDate>Wed, 03 Jul 2019 16:57:12 +0200</pubDate>
@@ -215,15 +287,6 @@ The objective of this course is to learn how to analyze, gather and work with mo
 
 &lt;p&gt;We will present modern data science methods needed for working with computational social science and social data in practice. Being an effective economist and data scientist means spending large fractions of our time writing and debugging code. In this section you will learn how to write code that will clean, transform, scrape, merge, visualize and analyze social data.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance</title>
-      <link>https://daviddlassen.github.io/publication/middleclass/middleclass/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/middleclass/middleclass/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -461,15 +524,6 @@ $$&lt;/p&gt;
     
     <item>
       <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
-      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
       <link>https://daviddlassen.github.io/publication_wp/wealthineq/wealthineq/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -488,20 +542,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
-      <link>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</link>
+      <link>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</guid>
-      <description>&lt;p&gt;Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
-      <link>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</guid>
+      <guid>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</guid>
       <description>&lt;p&gt;Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018&lt;/p&gt;
 </description>
     </item>

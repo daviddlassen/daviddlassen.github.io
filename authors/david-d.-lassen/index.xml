@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/authors/david-d.-lassen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Time Discounting and Wealth Inequality</title>
+      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance</title>
+      <link>https://daviddlassen.github.io/publication/middleclass/middleclass/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/middleclass/middleclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
+      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
@@ -18,15 +45,6 @@
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance</title>
-      <link>https://daviddlassen.github.io/publication/middleclass/middleclass/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/middleclass/middleclass/</guid>
       <description></description>
     </item>
     
@@ -59,15 +77,6 @@
     
     <item>
       <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
-      <link>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/wealthineq/wealthineq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time Discounting, Savings Behavior, and Wealth Inequality</title>
       <link>https://daviddlassen.github.io/publication_wp/wealthineq/wealthineq/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -77,19 +86,10 @@
     
     <item>
       <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
-      <link>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</link>
+      <link>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/muni_immi/muni_immi/</guid>
-      <description>Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018</description>
-    </item>
-    
-    <item>
-      <title>Does Immigration Affect Who Runs for Office? Evidence from Migration Shocks</title>
-      <link>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication_wp/muni_immi/muni_immi/</guid>
+      <guid>https://daviddlassen.github.io/pubs-to-come/muni_immi/muni_immi/</guid>
       <description>Presented at LSE/NYU Political Economy Workshop 2018, APSA 2018</description>
     </item>
     

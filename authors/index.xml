@@ -7,26 +7,188 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Amalie Jensen</title>
-      <link>https://daviddlassen.github.io/authors/amalie-jensen/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <title>Claus Thustrup Kreiner</title>
+      <link>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/authors/amalie-jensen/</guid>
+      <guid>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David D. Lassen</title>
       <link>https://daviddlassen.github.io/authors/david-d.-lassen/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/david-d.-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernst Fehr</title>
+      <link>https://daviddlassen.github.io/authors/ernst-fehr/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/ernst-fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregers Nytoft-Rasmussen</title>
+      <link>https://daviddlassen.github.io/authors/gregers-nytoft-rasmussen/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/gregers-nytoft-rasmussen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helga Fehr-Duda</title>
+      <link>https://daviddlassen.github.io/authors/helga-fehr-duda/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/helga-fehr-duda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Søren Leth-Petersen</title>
+      <link>https://daviddlassen.github.io/authors/s%C3%B8ren-leth-petersen/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/s%C3%B8ren-leth-petersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Epper</title>
+      <link>https://daviddlassen.github.io/authors/thomas-epper/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/thomas-epper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkadiusz Stopczynski</title>
+      <link>https://daviddlassen.github.io/authors/arkadiusz-stopczynski/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/arkadiusz-stopczynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://daviddlassen.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Sapiezynski</title>
+      <link>https://daviddlassen.github.io/authors/piotr-sapiezynski/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/piotr-sapiezynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sune Lehmann</title>
+      <link>https://daviddlassen.github.io/authors/sune-lehmann/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/sune-lehmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amalie Jensen</title>
+      <link>https://daviddlassen.github.io/authors/amalie-jensen/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/amalie-jensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob G. Hariri</title>
+      <link>https://daviddlassen.github.io/authors/jacob-g.-hariri/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/jacob-g.-hariri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Bjerre-Nielsen</title>
+      <link>https://daviddlassen.github.io/authors/andreas-bjerre-nielsen/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/andreas-bjerre-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asger Andersen</title>
+      <link>https://daviddlassen.github.io/authors/asger-andersen/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/asger-andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelton Minor</title>
+      <link>https://daviddlassen.github.io/authors/kelton-minor/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/kelton-minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Døssing</title>
+      <link>https://daviddlassen.github.io/authors/felix-d%C3%B8ssing/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/felix-d%C3%B8ssing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Klemmensen</title>
+      <link>https://daviddlassen.github.io/authors/robert-klemmensen/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/robert-klemmensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sune Welling Hansen</title>
+      <link>https://daviddlassen.github.io/authors/sune-welling-hansen/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/sune-welling-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Søren Serritzlew</title>
+      <link>https://daviddlassen.github.io/authors/s%C3%B8ren-serritzlew/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/s%C3%B8ren-serritzlew/</guid>
       <description></description>
     </item>
     
@@ -58,92 +220,11 @@
     </item>
     
     <item>
-      <title>Jacob G. Hariri</title>
-      <link>https://daviddlassen.github.io/authors/jacob-g.-hariri/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/jacob-g.-hariri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claus Thustrup Kreiner</title>
-      <link>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/claus-thustrup-kreiner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Søren Leth-Petersen</title>
-      <link>https://daviddlassen.github.io/authors/s%C3%B8ren-leth-petersen/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/s%C3%B8ren-leth-petersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sebastian Barfort</title>
       <link>https://daviddlassen.github.io/authors/sebastian-barfort/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/sebastian-barfort/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ernst Fehr</title>
-      <link>https://daviddlassen.github.io/authors/ernst-fehr/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/ernst-fehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gregers Nytoft-Rasmussen</title>
-      <link>https://daviddlassen.github.io/authors/gregers-nytoft-rasmussen/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/gregers-nytoft-rasmussen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helga Fehr-Duda</title>
-      <link>https://daviddlassen.github.io/authors/helga-fehr-duda/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/helga-fehr-duda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Epper</title>
-      <link>https://daviddlassen.github.io/authors/thomas-epper/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/thomas-epper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andreas Bjerre-Nielsen</title>
-      <link>https://daviddlassen.github.io/authors/andreas-bjerre-nielsen/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/andreas-bjerre-nielsen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Dreyer Lassen</title>
-      <link>https://daviddlassen.github.io/authors/david-dreyer-lassen/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/david-dreyer-lassen/</guid>
       <description></description>
     </item>
     
@@ -162,24 +243,6 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/katarina-jensen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piotr Sapiezynski</title>
-      <link>https://daviddlassen.github.io/authors/piotr-sapiezynski/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/piotr-sapiezynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sune Lehmann</title>
-      <link>https://daviddlassen.github.io/authors/sune-lehmann/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/sune-lehmann/</guid>
       <description></description>
     </item>
     
@@ -211,20 +274,20 @@
     </item>
     
     <item>
+      <title>Kristoffer Glavind</title>
+      <link>https://daviddlassen.github.io/authors/kristoffer-glavind/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/kristoffer-glavind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nikolaj Harmon</title>
       <link>https://daviddlassen.github.io/authors/nikolaj-harmon/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/nikolaj-harmon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Søren Serritzlew</title>
-      <link>https://daviddlassen.github.io/authors/s%C3%B8ren-serritzlew/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/s%C3%B8ren-serritzlew/</guid>
       <description></description>
     </item>
     
