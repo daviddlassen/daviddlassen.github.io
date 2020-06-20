@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/authors/kelton-minor/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
+      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication_wp/smartphoneatt/smartphone_att/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
-      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
       <description></description>
     </item>
     

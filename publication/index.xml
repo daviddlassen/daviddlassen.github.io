@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
+      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
+      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time Discounting and Wealth Inequality</title>
@@ -54,24 +72,6 @@
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/paternalism/patern_exp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
-      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
-      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
       <description></description>
     </item>
     

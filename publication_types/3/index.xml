@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
+      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I am Right and I Know It</title>
@@ -18,24 +27,6 @@
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication_wp/overconf/overconf_apsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>By Our Own Devices: Smartphone Use and Academic Performance</title>
-      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contagious political concerns: How unemployment information passed between weak ties influences Danish voters</title>
-      <link>https://daviddlassen.github.io/publication/dk_social_networks/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/publication/dk_social_networks/</guid>
       <description></description>
     </item>
     
