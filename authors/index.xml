@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 04:00:12 +0200</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://daviddlassen.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Mon, 09 Nov 2020 04:00:12 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie Louise Nosch</title>
+      <link>https://daviddlassen.github.io/authors/marie-louise-nosch/</link>
+      <pubDate>Mon, 09 Nov 2020 04:00:12 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/marie-louise-nosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lone Gram</title>
+      <link>https://daviddlassen.github.io/authors/lone-gram/</link>
+      <pubDate>Mon, 05 Oct 2020 04:00:12 +0200</pubDate>
+      
+      <guid>https://daviddlassen.github.io/authors/lone-gram/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andreas Bjerre-Nielsen</title>
@@ -171,15 +198,6 @@
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/arkadiusz-stopczynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Dreyer Lassen</title>
-      <link>https://daviddlassen.github.io/authors/david-dreyer-lassen/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/authors/david-dreyer-lassen/</guid>
       <description></description>
     </item>
     
@@ -378,8 +396,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/authors/admin/</guid>
-      <description>I am the founding director, since 2016, of the Copenhagen Center for Social Data Science (SODAS). I am also professor of economics at the University of Copenhagen and co-deputy director of the Center for Economic Behavior and Inequality (CEBI), established in 2017 through a grant from the Danish National Research Foundation.
-I am the Chair of the Independent Research Fund Denmark (DFF), and was a member of the 2017-8 Committee for Better University Education (Udvalget for bedre universitetsuddannelser).</description>
+      <description>I am provost, from Jan 1 2021, for research and innovation at the University of Copenhagen. Before this I was the founding director, 2016-20, of the Copenhagen Center for Social Data Science (SODAS), co-deputy director of the Center for Economic Behavior and Inequality (CEBI) established in 2017 through a grant from the the Danish National Research Foundation, and co-founder of the M.Sc. in Social Data Science. In 2019-20, I chaired the Independent Research Fund Denmark (DFF).</description>
     </item>
     
   </channel>
