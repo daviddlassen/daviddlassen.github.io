@@ -109,6 +109,34 @@
     </item>
     
     <item>
+      <title>Task-specific information outperforms surveillance-style big data in predictive analytics</title>
+      <link>https://daviddlassen.github.io/publication/tasks_pnas/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/tasks_pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://daviddlassen.github.io/project/supervision/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/supervision/</guid>
+      <description>&lt;p&gt;I used to supervise BA and M.Sc. theses in Social Data Science, Behavioral Economics, and Political Economics. Due to admin duties, I do not supervise B.A. or M.Sc. theses anymore except in rare circumstances. I am currently main supervisor of 5 PhD students in economics and in social data science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
+      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Krisetider viser behovet for investeringer i stærke forskningsmiljøer</title>
       <link>https://daviddlassen.github.io/post/altinget_november2020/</link>
       <pubDate>Mon, 09 Nov 2020 04:00:12 +0200</pubDate>
@@ -145,11 +173,11 @@
     </item>
     
     <item>
-      <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
-      <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <title>Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth</title>
+      <link>https://daviddlassen.github.io/publication/transport_plosone/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <guid>https://daviddlassen.github.io/publication/transport_plosone/</guid>
       <description></description>
     </item>
     
@@ -307,7 +335,7 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/project/data_governance/</guid>
-      <description>&lt;p&gt;Summer 2019&lt;/p&gt;
+      <description>&lt;p&gt;Summer 2019 - new version from Fall 2020 as part of the Social Data Science M.Sc. program.&lt;/p&gt;
 
 &lt;p&gt;Main lecturer: Kristoffer Albris.&lt;/p&gt;
 
@@ -331,9 +359,9 @@ The course is organized into three parts. First, we begin with an introduction t
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/project/sds_msc/</guid>
-      <description>&lt;p&gt;In 2020, we open the doors to our two-year M.Sc. in Social Data Science.&lt;/p&gt;
+      <description>&lt;p&gt;In 2020, we opened the doors to our two-year M.Sc. in Social Data Science.&lt;/p&gt;
 
-&lt;p&gt;You can read about &lt;a href=&#34;https://socialsciences.ku.dk/social-data-science/education/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, though parts of it may test your Danish skills. More info to follow soon.&lt;/p&gt;
+&lt;p&gt;You can read about &lt;a href=&#34;https://studies.ku.dk/masters/social-data-science/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -343,7 +371,7 @@ The course is organized into three parts. First, we begin with an introduction t
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/project/social_data_science/</guid>
-      <description>&lt;p&gt;Summer 2019&lt;/p&gt;
+      <description>&lt;p&gt;Summer 2019 - current version of this course is entitled Introduction to Social Data Science, taught by Andreas Bjerre-Nielsen.&lt;/p&gt;
 
 &lt;p&gt;Main lecturers: Andreas Bjerre-Nielsen and Snorre Ralund.&lt;/p&gt;
 
@@ -709,18 +737,6 @@ $$&lt;/p&gt;
       
       <guid>https://daviddlassen.github.io/publication/jop_info/jop_info/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>https://daviddlassen.github.io/project/supervision/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/project/supervision/</guid>
-      <description>&lt;p&gt;I supervise BA and M.Sc. theses in Social Data Science, Behavioral Economics, and Political Economics.&lt;/p&gt;
-
-&lt;p&gt;In social data science, projects often combine machine learning and prediction with social science topics. These projects are often based on data from the public sector or industry and we can often facilitate contact with such partners. Get in touch if interested.&lt;/p&gt;
-</description>
     </item>
     
     <item>

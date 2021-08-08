@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://daviddlassen.github.io/project/supervision/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/project/supervision/</guid>
+      <description>Topics for thesis supervision</description>
+    </item>
     
     <item>
       <title>Data governance</title>
@@ -46,15 +55,6 @@
       
       <guid>https://daviddlassen.github.io/project/past_teaching/</guid>
       <description>Remembrance of things past</description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>https://daviddlassen.github.io/project/supervision/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddlassen.github.io/project/supervision/</guid>
-      <description>Topics for thesis supervision</description>
     </item>
     
   </channel>

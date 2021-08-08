@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://daviddlassen.github.io/authors/kelton-minor/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
       <link>https://daviddlassen.github.io/publication/smartphonesgrades/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://daviddlassen.github.io/publication/smartphonesgrades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth</title>
+      <link>https://daviddlassen.github.io/publication/transport_plosone/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddlassen.github.io/publication/transport_plosone/</guid>
       <description></description>
     </item>
     
